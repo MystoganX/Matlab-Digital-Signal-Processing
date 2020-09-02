@@ -6,6 +6,6 @@ Here we'll look into the depths of analyzing signals in the frequency domain and
 
 Analysis of how signals are studied in the frequency domain
 
-2. Zero-Pole Placement Technique
+2. Digital filter design
 
-Basic filter design approach based on placing specified zeros and poles in the Z-Plane
+Process of designing and implementing different types of filters 
